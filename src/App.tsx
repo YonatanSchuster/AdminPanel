@@ -8,7 +8,7 @@ import Navbar from './components/navbar/Navbar';
 import Login from './pages/login/Login';
 import './styles/global.scss';
 import User from './pages/user/User';
-import Product from './pages/product/product';
+import Product from './pages/product/Product';
 function App() {
   // inside we will build our layout that contains nav Bar, menu and footer
   const Layout = () => {
